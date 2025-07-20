@@ -4,7 +4,7 @@
 
 The **Global Inbox & Connections** feature allows users to access and manage all their cross-event communications and networking relationships in a centralized view. This page is available **before selecting a specific event**, making it easy for users to continue conversations or build connections across multiple fairs or conferences.
 
-<img  src="assets/28.png" alt="Dashoard"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/28.png" alt="Dashoard"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 ### Key Components
 
