@@ -65,7 +65,7 @@ A global search and filter bar allows narrowing the list of messages or connecti
 
 ## Event Dashboard
 
-<img  src="assets/1.png" alt="Dashoard"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/1.png" alt="Dashoard"  width="70%" height="40%" style="display: block; margin: 0 auto">
 <br/>
 
 The **Dashboard** is the central hub of the user’s experience. It provides an at-a-glance summary of the most important metrics, upcoming activities, recommendations, and personal data for an event or fair. This is the first screen the user sees after logging in and is tailored to their engagement with the platform.
@@ -78,14 +78,14 @@ The **Dashboard** is the central hub of the user’s experience. It provides an 
 
 ### 1. Top Metrics Cards
 
-<img  src="assets/3.png" alt="Top Metrics Cards"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/3.png" alt="Top Metrics Cards"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 Displays summary tiles with numerical stats:
 
 - **Exhibitors**: Number of exhibitors of the event that the user interacted with. If you click on this card, you will be sent to "Exhibitors" tab of the site.
 - **My Badge**: Quick access to the user's digital badge.
 
-<img  src="assets/2.png" alt="Badge"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/2.png" alt="Badge"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 - **Products**: Number of products viewed, saved, or interacted with. If you click on this card, you will be sent to "Products" tab of the site.
 
@@ -93,7 +93,7 @@ Displays summary tiles with numerical stats:
 
 ### 2. Recommended Exhibitors
 
-<img  src="assets/4.png" alt="Recommended Exhibitors"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/4.png" alt="Recommended Exhibitors"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 A horizontal scrollable carousel showing exhibitors personalized to the user based on preferences or browsing behavior.
 
@@ -108,7 +108,7 @@ A horizontal scrollable carousel showing exhibitors personalized to the user bas
 
 ### 3. My Calendar
 
-<img  src="assets/5.png" alt="My Calender"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/5.png" alt="My Calender"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 Panel showing upcoming personal activities (e.g., meetings, sessions booked).
 
@@ -119,7 +119,7 @@ Panel showing upcoming personal activities (e.g., meetings, sessions booked).
 
 ### 4. What’s On
 
-<img  src="assets/6.png" alt="What's On"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/6.png" alt="What's On"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 Section showing real-time or scheduled events during the fair.
 
@@ -134,7 +134,7 @@ Section showing real-time or scheduled events during the fair.
 
 ### 5. Sponsors
 
-<img  src="assets/7.png" alt="Sponsors"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/7.png" alt="Sponsors"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 A visually distinct (yellow background here) section highlighting top sponsors of the event.
 
@@ -145,7 +145,7 @@ A visually distinct (yellow background here) section highlighting top sponsors o
 
 ### 6. Recommended Products
 
-<img  src="assets/8.png" alt="Recommended Products"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/8.png" alt="Recommended Products"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 Another horizontal scrollable panel displaying suggested products from various exhibitors.
 
@@ -161,7 +161,7 @@ Another horizontal scrollable panel displaying suggested products from various e
 
 ### 7. Messages
 
-<img  src="assets/9.png" alt="Messages"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/9.png" alt="Messages"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 Section for showing number of new messages you have. If you have no new message, it will show **0 messages**. Clicking this card will send you to **Messages** section of the website.
 
@@ -169,7 +169,7 @@ Section for showing number of new messages you have. If you have no new message,
 
 ### 8. Connections
 
-<img  src="assets/10.png" alt="Connections"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/10.png" alt="Connections"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 Section for showing number of connections you have made in this event. If you have no connections, it will show **0 connections**. This number will be incremented with each connection you make.Clicking this card will send you to **Connections** section of the website.
 
@@ -187,7 +187,7 @@ The **Header** is a persistent, top-level navigation bar that provides access to
 
 ### 1. Timezone Selector
 
-<img  src="assets/11.png" alt="Timezone Selector"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/11.png" alt="Timezone Selector"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 this dropdown allows users to switch between:
 
@@ -198,7 +198,7 @@ this dropdown allows users to switch between:
 
 ### 2. User Profile Menu
 
-<img  src="assets/12.png" alt="Timezone Selector"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/12.png" alt="Timezone Selector"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 Located on the top-right, this section includes:
 - **Initials Badge** (e.g., `HD`) – auto-generated from user name.
@@ -217,7 +217,7 @@ Located on the top-right, this section includes:
 
 ## Sidebar Navigation
 
-<img  src="assets/13.png" alt="Sidebar Navigation"  width="200" height="600" style="display: block; margin: 0 auto">
+<img  src="Assets/13.png" alt="Sidebar Navigation"  width="200" height="600" style="display: block; margin: 0 auto">
 
 The **Sidebar** provides a structured and intuitive way for users to navigate the event platform. It separates event-related features from personal tools and includes key branding and contextual information like event name and date.
 
@@ -268,7 +268,7 @@ Under the label `PERSONAL`:
 
 ## What's On
 
-<img  src="assets/14.png" alt="What's On"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/14.png" alt="What's On"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 The **"What's On"** section provides attendees with a clear, organized, and interactive view of the event’s schedule. It allows filtering sessions by track, location, or as a complete list. This section helps users plan their attendance, discover sessions, and manage their time effectively.
 
@@ -295,13 +295,13 @@ When **By track** is active, the page shows:
 | **Labels**              | - Paid / Free (open access) <br> - LIVE badge (if real-time) |
 | **Color Coding**        | Distinct pastel color per track or session type             |
 
-<img  src="assets/17.png" alt="Session Cards"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/17.png" alt="Session Cards"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 ---
 
 ### 2. By Location View
 
-<img  src="assets/15.png" alt="By Location View"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/15.png" alt="By Location View"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 This view organizes sessions by **venue or room** instead of content track. It is designed to assist in **spatial navigation** for physical or hybrid events.
 
@@ -321,7 +321,7 @@ This view organizes sessions by **venue or room** instead of content track. It i
 
 ### 3. List View
 
-<img  src="assets/16.png" alt="List View"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/16.png" alt="List View"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 This is a **chronological flat list** of all sessions, regardless of track or location. Ideal for users who prefer scanning all content in one vertical stream.
 
@@ -342,7 +342,7 @@ This is a **chronological flat list** of all sessions, regardless of track or lo
 
 ## Event Information
 
-<img  src="assets/18.png" alt="Event Information"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/18.png" alt="Event Information"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 The **Event Information** section acts as a centralized hub for practical details that help attendees navigate, prepare for, and maximize their event experience. It includes categorized cards such as transportation, accommodation, dining, planning tips, and more.
 
@@ -366,7 +366,7 @@ The section includes three tabs for content filtering:
 
 ### 2. Information Cards
 
-<img  src="assets/19.png" alt="Information Cards"  width="300" height="200" style="display: block; margin: 0 auto">
+<img  src="Assets/19.png" alt="Information Cards"  width="300" height="200" style="display: block; margin: 0 auto">
 
 Each item is shown as a **clickable information card** with:
 
@@ -395,7 +395,7 @@ Each item is shown as a **clickable information card** with:
 
 ## Exhibitors
 
-<img  src="assets/20.png" alt="Exhibitors"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/20.png" alt="Exhibitors"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 The **Exhibitors** section showcases all participating companies at the event. Users can browse, search, favorite, and connect with exhibitors through a clean, card-based interface. This section serves as a digital exhibition floor.
 
@@ -437,7 +437,7 @@ Each exhibitor is represented via a **compact card** with the following info:
 > 🔧 *MVP Features*:
 > - Card click opens exhibitor profile
 
-<img  src="assets/26.png" alt="Exhibitors' Profile"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/26.png" alt="Exhibitors' Profile"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 ---
 
@@ -452,7 +452,7 @@ Located at the top-right, this includes:
 
 ## Products
 
-<img  src="assets/21.png" alt="Products"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/21.png" alt="Products"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 The **Products** section showcases all offerings presented by exhibitors. Users can browse by category, mark favorites, and explore product details. This section serves as a virtual product showcase and marketplace.
 
@@ -488,7 +488,7 @@ Each product is represented as a **clickable tile card**, containing:
 | **Star Icon**        | Allows favoriting the product                                 |
 | **Arrow Icon**       | Indicates the card is clickable for more details              |
 
-<img  src="assets/27.png" alt="Products' Details"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/27.png" alt="Products' Details"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 #### Featured Product Highlight:
 - One or more **larger cards** (like “All-in-One Desktops”) shown at the top.
@@ -525,7 +525,7 @@ A vertical filter panel allows category-based browsing.
 
 ## Attendees
 
-<img  src="assets/22.png" alt="Attendees"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/22.png" alt="Attendees"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 The **Attendees** section allows users to discover and connect with other participants, including **speakers** and **normal visitors**. This section helps build networking opportunities through profile exploration, direct connection requests, and interaction tracking.
 
@@ -585,7 +585,7 @@ Above all tabs, the search bar allows:
 
 ### Profile Privacy
 
-<img  src="assets/23.png" alt="Make My Profile Public"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/23.png" alt="Make My Profile Public"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 A CTA button — **"Make my profile public"** — encourages user engagement.
 
@@ -597,7 +597,7 @@ A CTA button — **"Make my profile public"** — encourages user engagement.
 
 ## My Calender
 
-<img  src="assets/24.png" alt="My Calender"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/24.png" alt="My Calender"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 The **My Calendar** section enables users to visualize and manage their personal schedule during the event. It aggregates sessions, meetings, and planned activities into an intuitive calendar interface that supports multiple time views.
 
@@ -651,7 +651,7 @@ The grid layout (in Month view) includes:
 
 ## Messages
 
-<img  src="assets/25.png" alt="Mesages"  width="70%" height="40%" style="display: block; margin: 0 auto">
+<img  src="Assets/25.png" alt="Mesages"  width="70%" height="40%" style="display: block; margin: 0 auto">
 
 The **Messages** section provides a private, real-time messaging interface for attendees to communicate with each other. It supports direct messages between visitors, speakers, or exhibitors, and acts as the core of networking engagement during the event.
 
